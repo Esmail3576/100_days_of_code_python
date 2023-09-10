@@ -1,0 +1,13 @@
+name = input ("what is your name?\n")
+favorite_food = input("what is your favorite food?\n")
+favorite_music = input("what is your favorite music?\n")
+place = input("where did you live?\n")
+print("You are\n")
+print(name)
+print("You're probably hungry for ")
+print(favorite_food)
+print("and you're definitely getting your groove on to ")
+print(favorite_music)
+print("living in ")
+print(place)
+
